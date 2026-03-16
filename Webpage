@@ -1,0 +1,33 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+ <title>SECD104 Siddhi Shinde</title>
+<link rel="stylesheet" href="style.css">
+<style>
+body {background-color:pink}
+h2 {color:blue;}
+table,th,tr,td {
+border: 1px solid #f95959;
+border-collapse: collapse;
+}
+</style>
+<h1>This is External CSS</h1>
+</head>
+<body>
+<p><h2>This is Internal CSS</h2></p>
+<h3 style="color:white;">This is Inline CSS</h3>
+ <table border="2" width="1" cellspacing="0" cellpadding="10" allign="center" 
+bgcolor="Biscoff"> 
+<tr><th><b>content</b></th><td><b>Details</b></td></tr>
+<tr><th>Name</th><td>Siddhi Shinde</td></tr>
+<tr><th>Roll No</th><td>SECD104</td></tr>
+<tr><th>Email</th><td><em>shindesiddhxxxx@gmail.com</em></td></tr>
+<tr><th>Contact No</th><td><strike>987675xxxx</strike></td></tr>
+</body>
+</html>
+style.css
+h1 {color:pink;}
+th,td {
+padding: 20px;
+background-color:#455d7a;
+}
